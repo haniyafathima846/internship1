@@ -27,7 +27,7 @@ body {
     }
 
 .herosession {
-      background-color: tomato;
+      background-color: blue;
       color: white;
       text-align: center;
       padding: 60px 20px;
@@ -37,7 +37,7 @@ body {
 .herosession p{font-size: 18px;margin-bottom: 24px;}
 
 .herosession a {
-      background-color: green;
+      background-color: yellow;
       color:blanchedalmond;
       padding-top: 20px;
       padding: 12px 30px;
@@ -66,7 +66,7 @@ body {
 
 
 .price{
-    color: green;
+    color: yellow;
 
 }
 
@@ -96,7 +96,7 @@ footer {
 
 
 .page-header {
-      background-color: tomato;
+      background-color: blue;
       color: white;
       text-align: center;
       padding: 40px 20px;
@@ -115,7 +115,7 @@ footer {
     }
 
 .about-box {
-      background-color: palegreen;
+      background-color: navajowhite;
       border: 2px solid seashell;
       padding: 24px;
       flex: 1;
@@ -142,7 +142,7 @@ footer {
     }
 
 .team-card {
-      background-color: palegreen;
+      background-color: navajowhite;
       border: 2px solid seashell;
       padding: 20px;
       width: 190px;
