@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JavaScript Task 1</title>
+</head>
+<body>
+
+<h1>JavaScript DOM & Events Tutorial</h1>
+
+<h2 id="demo">Hello haniya</h2>
+<button onclick="changeText()">Click Me</button>
+
+<script>
+// Variables
+let name = "haniya";
+const country = "India";
+
+// Function for button
+function changeText() {
+  let message = "JavaScript is interesting!";
+  document.getElementById("demo").innerHTML = message;
+}
+
+// Loop example
+for (let i = 1; i <= 3; i++) {
+  console.log("Number:", i);
+}
+
+// Condition example
+let age = 18;
+if (age >= 18) {
+  console.log("Adult");
+} else {
+  console.log("Minor");
+}
+</script>
+
+</body>
+</html>
